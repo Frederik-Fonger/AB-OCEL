@@ -2,7 +2,7 @@
 
 This git contains the source code and the evaluation for the object-centric event log sampling algorithm AB-OCEL.
 
-For the evaluation we modified OCPA for multiporcessing and supply the modified code in this git. The original version of OCPA can be found under https://github.com/ocpm/ocpa.
+For the evaluation we modified OCPA for multiprocessing and supply the modified code in this git. The original version of OCPA can be found under https://github.com/ocpm/ocpa.
 
 # Running the code
 
