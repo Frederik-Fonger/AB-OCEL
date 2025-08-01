@@ -12,7 +12,7 @@ For sampling:
  - Download the data set from https://zenodo.org/records/13879980 and place the “02_p2p.xml” in the data folder.
  - Start the main.py.
  - When the sample finished successfully the result is in the “output” folder.
- - 
+   
 For evaluation:
  - Download the data set from https://zenodo.org/records/13879980 and place the “02_p2p.xml” in the data folder.
  - 	In the main.py uncomment line 16 and 19 to enable the evaluation.
